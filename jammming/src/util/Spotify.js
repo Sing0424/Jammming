@@ -1,5 +1,5 @@
 const cliendId = '5faf3952b05b4cdbb3f87b3413496436';
-const redirecUri = 'http://localhost:3000/';
+const redirecUri = 'http://ivanTTS-jammming.surge.sh';
 let accessToken;
 
 const Spotify = { 
